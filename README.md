@@ -1,36 +1,37 @@
-<h1 style="font-family: sans-serif; font-size: 2rem; margin-bottom: 1rem;">Hi there!  I'm Manjunadhan</h1>
-<p>Software Engineer | Data Science Enthusiast  | Warangal, India 🇮🇳</p>
+# Hi there! 👋 I'm Manujundhan!
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/anuraghazra/github-readme-stats" alt="GitHub stats" />
-  <a href="https://www.linkedin.com/in/bhupathimanjunadhan" target="_blank">
-    <img src="https://github.com/topics/social-media-icons" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/Manjunadhan?hr_r=1" target="_blank">
-    <img src="https://github.com/topics/social-media-icons" alt="HackerRank" />
-  </a>
-</div>
+I'm a Software Engineer | Data Science Enthusiast  | based in Warangal. Welcome to my GitHub profile!
 
-<br>
+## 🚀 Profile Highlights:
 
-## Projects
+- Languages & Tools:
+  - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+  - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+- GitHub Stats:
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+- Portfolio:
+  [yourwebsite.com](https://www.yourwebsite.com)
 
+## 🛠️ Projects:
 
-* **[Project Name 1]:** A brief description of your project and its key features ([link to repository])
-* **[Project Name 2]:** Another project description with key technologies used ([link to repository])
+1. [Project Name 1](https://github.com/yourusername/project1)
+   - Description of the project and key technologies.
+2. [Project Name 2](https://github.com/yourusername/project2)
+   - Description of the project and key technologies.
 
-## Contributions
+## 🔥 Contributions:
 
-I actively contribute to open-source projects. See my contributions on GitHub ([link to your profile]).
+- Active contributor to [Project X](https://github.com/projectx)
+- Notable contributions to [Project Y](https://github.com/projecty)
 
-## Get in touch!
+## 📫 Social Media & Contact:
 
-Feel free to connect with me on LinkedIn or HackerRank (links above). 
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: your.email@example.com
 
-Want to chat? Reach out via email: [your email address using a contact form]
+## 🌟 Fun Fact:
 
-**Bonus:**
+Did you know that I love experimenting with new programming languages in my free time?
 
-[Insert a cool coding animation here]
-
-**P.S.** I'm always learning and looking for new challenges. Feel free to reach out if you have any interesting projects!
