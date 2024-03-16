@@ -9,7 +9,7 @@ I'm a Software Engineer | Data Science Enthusiast  | based in Warangal. Welcome 
   - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 - GitHub Stats:
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/manjunadhan)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjunadhan&show_icons=true&theme=radical)](https://github.com/manjunadhan)
 - Portfolio:
   [yourwebsite.com](https://www.yourwebsite.com)
 
