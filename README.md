@@ -15,8 +15,8 @@ I'm a Software Engineer | Data Science Enthusiast  | based in Warangal. Welcome 
 
 ## 🛠️ Projects:
 
-1. [Project Name 1](https://github.com/yourusername/project1)
-   - Description of the project and key technologies.
+1. [Project Name 1]([https://github.com/yourusername/project1](https://github.com/manjunadhan/my1standroidapp.git))
+   - Basically this app is Prototype for our College App. Technologies used Application using JAVA , XML and FIREBASE for Database Connectivity.
 2. [Project Name 2](https://github.com/yourusername/project2)
    - Description of the project and key technologies.
 
@@ -27,9 +27,8 @@ I'm a Software Engineer | Data Science Enthusiast  | based in Warangal. Welcome 
 
 ## 📫 Social Media & Contact:
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Email: your.email@example.com
+- LinkedIn: [Bhupathi Manjunadhan](linkedin.com/in/bhupathimanjunadhan)
+- Email: bhupathimanjunadhan5390@gmail.com
 
 ## 🌟 Fun Fact:
 
