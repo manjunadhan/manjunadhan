@@ -27,7 +27,7 @@ I'm a Software Engineer | Data Science Enthusiast  | based in Warangal. Welcome 
 
 ## 📫 Social Media & Contact:
 
-- LinkedIn: [Bhupathi Manjunadhan](linkedin.com/in/bhupathimanjunadhan)
+- LinkedIn: linkedin.com/in/bhupathimanjunadhan
 - Email: bhupathimanjunadhan5390@gmail.com
 
 ## 🌟 Fun Fact:
